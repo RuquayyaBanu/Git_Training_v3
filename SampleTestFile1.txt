@@ -1,1 +1,3 @@
 This is Sample file 1 
+this is a comparison lect
+this is a comparison lect chg file 2
